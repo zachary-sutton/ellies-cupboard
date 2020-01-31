@@ -1,27 +1,28 @@
 {
   "files": {
-    "main.css": "/ellies-cupboard/static/css/main.14e24598.chunk.css",
-    "main.js": "/ellies-cupboard/static/js/main.cb0db828.chunk.js",
-    "main.js.map": "/ellies-cupboard/static/js/main.cb0db828.chunk.js.map",
+    "main.css": "/ellies-cupboard/static/css/main.84c5c13e.chunk.css",
+    "main.js": "/ellies-cupboard/static/js/main.54888b92.chunk.js",
+    "main.js.map": "/ellies-cupboard/static/js/main.54888b92.chunk.js.map",
     "runtime-main.js": "/ellies-cupboard/static/js/runtime-main.7b847aba.js",
     "runtime-main.js.map": "/ellies-cupboard/static/js/runtime-main.7b847aba.js.map",
     "static/css/2.47e06e2e.chunk.css": "/ellies-cupboard/static/css/2.47e06e2e.chunk.css",
-    "static/js/2.aec61da8.chunk.js": "/ellies-cupboard/static/js/2.aec61da8.chunk.js",
-    "static/js/2.aec61da8.chunk.js.map": "/ellies-cupboard/static/js/2.aec61da8.chunk.js.map",
+    "static/js/2.dd26e191.chunk.js": "/ellies-cupboard/static/js/2.dd26e191.chunk.js",
+    "static/js/2.dd26e191.chunk.js.map": "/ellies-cupboard/static/js/2.dd26e191.chunk.js.map",
     "index.html": "/ellies-cupboard/index.html",
-    "precache-manifest.0bdf914d058bc883e65d4232ea4613a8.js": "/ellies-cupboard/precache-manifest.0bdf914d058bc883e65d4232ea4613a8.js",
+    "precache-manifest.2523d291112c8a62bbdbf47bcd6fccc1.js": "/ellies-cupboard/precache-manifest.2523d291112c8a62bbdbf47bcd6fccc1.js",
     "service-worker.js": "/ellies-cupboard/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/ellies-cupboard/static/css/2.47e06e2e.chunk.css.map",
-    "static/css/main.14e24598.chunk.css.map": "/ellies-cupboard/static/css/main.14e24598.chunk.css.map",
-    "static/js/2.aec61da8.chunk.js.LICENSE": "/ellies-cupboard/static/js/2.aec61da8.chunk.js.LICENSE",
+    "static/css/main.84c5c13e.chunk.css.map": "/ellies-cupboard/static/css/main.84c5c13e.chunk.css.map",
+    "static/js/2.dd26e191.chunk.js.LICENSE": "/ellies-cupboard/static/js/2.dd26e191.chunk.js.LICENSE",
     "static/media/App.css": "/ellies-cupboard/static/media/look-book.7581ba95.jpg",
+    "static/media/loading.gif": "/ellies-cupboard/static/media/loading.5fe0e55f.gif",
     "static/media/pf-logo.png": "/ellies-cupboard/static/media/pf-logo.0fca15cc.png"
   },
   "entrypoints": [
     "static/js/runtime-main.7b847aba.js",
     "static/css/2.47e06e2e.chunk.css",
-    "static/js/2.aec61da8.chunk.js",
-    "static/css/main.14e24598.chunk.css",
-    "static/js/main.cb0db828.chunk.js"
+    "static/js/2.dd26e191.chunk.js",
+    "static/css/main.84c5c13e.chunk.css",
+    "static/js/main.54888b92.chunk.js"
   ]
 }

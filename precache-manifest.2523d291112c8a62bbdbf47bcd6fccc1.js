@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "af3a9fdf6e7d76d4cafe002dc8e77406",
+    "revision": "4b47c5b5a56778725c777ee05b3d1717",
     "url": "/ellies-cupboard/index.html"
   },
   {
-    "revision": "b9bcbfbf03ee05cbe11c",
+    "revision": "1f8bfda581692ff65a25",
     "url": "/ellies-cupboard/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "db4619edbce07e0eea80",
-    "url": "/ellies-cupboard/static/css/main.14e24598.chunk.css"
+    "revision": "1fa6b0d80fa0b58f016a",
+    "url": "/ellies-cupboard/static/css/main.84c5c13e.chunk.css"
   },
   {
-    "revision": "b9bcbfbf03ee05cbe11c",
-    "url": "/ellies-cupboard/static/js/2.aec61da8.chunk.js"
+    "revision": "1f8bfda581692ff65a25",
+    "url": "/ellies-cupboard/static/js/2.dd26e191.chunk.js"
   },
   {
     "revision": "af9c41958bfcab2a48903a96dd7576a8",
-    "url": "/ellies-cupboard/static/js/2.aec61da8.chunk.js.LICENSE"
+    "url": "/ellies-cupboard/static/js/2.dd26e191.chunk.js.LICENSE"
   },
   {
-    "revision": "db4619edbce07e0eea80",
-    "url": "/ellies-cupboard/static/js/main.cb0db828.chunk.js"
+    "revision": "1fa6b0d80fa0b58f016a",
+    "url": "/ellies-cupboard/static/js/main.54888b92.chunk.js"
   },
   {
     "revision": "a93a7e7de83e92b99e1c",
@@ -34,6 +34,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "06c00a7b44316dec34d7aa52c6518e09",
     "url": "/ellies-cupboard/static/media/landing.06c00a7b.jpg"
+  },
+  {
+    "revision": "5fe0e55f8e19bc4cc3201876dce7b224",
+    "url": "/ellies-cupboard/static/media/loading.5fe0e55f.gif"
   },
   {
     "revision": "7581ba95ee2ba747e112733ee03c4dd1",
