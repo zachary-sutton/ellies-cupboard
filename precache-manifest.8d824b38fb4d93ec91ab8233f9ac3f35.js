@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4a21beae240c247a16d1e697719d73c1",
+    "revision": "f2c34b97d366282cb57a5f5222e57d0e",
     "url": "/ellies-cupboard/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ellies-cupboard/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "dabc739c1702ae17fec7",
-    "url": "/ellies-cupboard/static/css/main.0c8df3e9.chunk.css"
+    "revision": "93a0893ae1298928c5ae",
+    "url": "/ellies-cupboard/static/css/main.a9ea5d4f.chunk.css"
   },
   {
     "revision": "1f8bfda581692ff65a25",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ellies-cupboard/static/js/2.dd26e191.chunk.js.LICENSE"
   },
   {
-    "revision": "dabc739c1702ae17fec7",
+    "revision": "93a0893ae1298928c5ae",
     "url": "/ellies-cupboard/static/js/main.442c27db.chunk.js"
   },
   {
