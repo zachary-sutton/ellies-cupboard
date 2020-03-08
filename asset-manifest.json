@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ellies-cupboard/static/css/main.55daeae1.chunk.css",
+    "main.css": "/ellies-cupboard/static/css/main.0c8df3e9.chunk.css",
     "main.js": "/ellies-cupboard/static/js/main.442c27db.chunk.js",
     "main.js.map": "/ellies-cupboard/static/js/main.442c27db.chunk.js.map",
     "runtime-main.js": "/ellies-cupboard/static/js/runtime-main.7b847aba.js",
@@ -9,10 +9,10 @@
     "static/js/2.dd26e191.chunk.js": "/ellies-cupboard/static/js/2.dd26e191.chunk.js",
     "static/js/2.dd26e191.chunk.js.map": "/ellies-cupboard/static/js/2.dd26e191.chunk.js.map",
     "index.html": "/ellies-cupboard/index.html",
-    "precache-manifest.b804cecb10f78c162b1efc7bb904cf5e.js": "/ellies-cupboard/precache-manifest.b804cecb10f78c162b1efc7bb904cf5e.js",
+    "precache-manifest.db7cca7eab493eb00e68e725a040fc98.js": "/ellies-cupboard/precache-manifest.db7cca7eab493eb00e68e725a040fc98.js",
     "service-worker.js": "/ellies-cupboard/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/ellies-cupboard/static/css/2.47e06e2e.chunk.css.map",
-    "static/css/main.55daeae1.chunk.css.map": "/ellies-cupboard/static/css/main.55daeae1.chunk.css.map",
+    "static/css/main.0c8df3e9.chunk.css.map": "/ellies-cupboard/static/css/main.0c8df3e9.chunk.css.map",
     "static/js/2.dd26e191.chunk.js.LICENSE": "/ellies-cupboard/static/js/2.dd26e191.chunk.js.LICENSE",
     "static/media/style.css": "/ellies-cupboard/static/media/look-book.7581ba95.jpg",
     "static/media/loading.gif": "/ellies-cupboard/static/media/loading.5fe0e55f.gif",
@@ -22,7 +22,7 @@
     "static/js/runtime-main.7b847aba.js",
     "static/css/2.47e06e2e.chunk.css",
     "static/js/2.dd26e191.chunk.js",
-    "static/css/main.55daeae1.chunk.css",
+    "static/css/main.0c8df3e9.chunk.css",
     "static/js/main.442c27db.chunk.js"
   ]
 }
