@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f2c34b97d366282cb57a5f5222e57d0e",
+    "revision": "170213dcafd7b9a74383194d226fe1f9",
     "url": "/ellies-cupboard/index.html"
   },
   {
-    "revision": "1f8bfda581692ff65a25",
+    "revision": "e812a0505d194f209418",
     "url": "/ellies-cupboard/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "93a0893ae1298928c5ae",
-    "url": "/ellies-cupboard/static/css/main.a9ea5d4f.chunk.css"
+    "revision": "5dcfeba92c6ae7c76df0",
+    "url": "/ellies-cupboard/static/css/main.521fe8d4.chunk.css"
   },
   {
-    "revision": "1f8bfda581692ff65a25",
-    "url": "/ellies-cupboard/static/js/2.dd26e191.chunk.js"
+    "revision": "e812a0505d194f209418",
+    "url": "/ellies-cupboard/static/js/2.f0657155.chunk.js"
   },
   {
     "revision": "af9c41958bfcab2a48903a96dd7576a8",
-    "url": "/ellies-cupboard/static/js/2.dd26e191.chunk.js.LICENSE"
+    "url": "/ellies-cupboard/static/js/2.f0657155.chunk.js.LICENSE"
   },
   {
-    "revision": "93a0893ae1298928c5ae",
-    "url": "/ellies-cupboard/static/js/main.442c27db.chunk.js"
+    "revision": "5dcfeba92c6ae7c76df0",
+    "url": "/ellies-cupboard/static/js/main.d08d7d71.chunk.js"
   },
   {
     "revision": "a93a7e7de83e92b99e1c",
